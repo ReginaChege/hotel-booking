@@ -1,0 +1,287 @@
+
+body{
+    overflow-x: hidden;
+}
+.nuroshei{
+    background-image:url("alexander-naglestad-Fy8o0YA-e2Q-unsplash.jpg");
+    background-repeat: repeat;
+    background-size: cover;
+   width: 100%;
+   height: 600px;
+   background-blend-mode: darken;
+   background-color: rgba(0,0,0,0.7);
+}
+.a{
+   color: white;
+   padding: 50px;
+   gap: 30px;
+}
+.heading1{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    margin-top: 190px;
+    font-size: 70px;
+}
+.info{
+    display: flex;
+    border-radius: 20px;
+}
+.para1{
+    font-size: 40px;
+    font-weight: 20px;
+}
+.paraa{
+    text-align: center;
+    font-weight: 5px;
+}
+.pernight{
+    display: flex;
+}
+ion-icon{
+    margin-left: 20px;
+   color: blue;
+}
+.now{
+    display: flex;
+}
+#bur{
+    
+
+}
+#thew{
+    width: 300px;
+    height: 45vh;
+}
+#taj{ 
+    width: 300px;
+    height: 45vh;
+    
+}
+.images{
+    display: flex;
+    gap: 60px;
+    margin-left: 70px;
+}
+.heading3{
+    margin-top: -90px;
+    display: flex;
+    font-size: 40px;
+    font-weight: 700;
+    margin-left: 90px;
+    margin-bottom: 80px;
+    
+}
+.but{
+    margin-top: 70px;
+    margin-left: 450px;
+}
+.d2{
+    margin-left: 30px;
+}
+.d{
+    display: flex;
+    gap: 150px;
+    margin-left:90px;
+    font-size: 23px;
+    font-weight: 600;
+    color: #f8f9fa;
+    margin-top: -45px;
+}
+.see{
+    color: rgb(47, 100, 199);
+    border-radius: 20px;
+    padding: 15px;
+    font-size: 20px;
+    width: 200px;
+    border: rgb(47, 109, 150) solid;
+}
+.popular{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.luxury1{
+    width: 350px;
+    height: 350px;
+}
+luxury2{
+    width: 400px;
+    height: 300px;
+}
+.luxury{
+    display: flex;
+    gap: 50px;
+}
+.luxury4{
+    width: 350px;
+    height: 350px;
+}
+.luxurrrry{
+    display: flex;
+    gap: 50px;
+}
+.detail{
+    display: flex;
+}
+.pasta{
+    width: 300px;
+    height: 300px;
+}
+.pasta1{
+    margin-left: 20px;
+    gap: 40px;
+}
+.biriani{
+    width: 300px;
+    height: 300px; 
+}
+.spagheti{
+    width: 300px;
+    height: 300px;
+}
+.h3{
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+}
+.fasters{
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+}
+.course{
+    display: flex;
+    gap: 60px;
+   margin-left: 40%;
+}
+.reji{
+    display: flex;
+    gap: 110px;
+}
+.loren{
+display: flex;
+}
+.facilities{
+    display: flex;
+    font-size: 50px;
+}
+.para1{
+    text-align: center;
+}
+.para3{
+    text-align: center;
+    font-size: 50px;
+}
+.para4{
+    text-align: center;
+}
+.para6{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 100px; 
+}
+.lastpic{
+    width: 600px;
+    height: 600px;
+}
+.hotelluxury{
+    margin-left: 750px;
+}
+.end{
+    margin-top: -570px;
+    margin-left: 800px;
+}
+.be{
+    margin-left: -90px;
+    padding: 10px;
+    width: 140px;
+    font-size: 20px;
+    color: #f8f9fa;
+    background-color: rgb(75, 128, 226);
+}
+.bb{
+    margin-left: -190px;
+    padding: 10px;
+    width: 140px;
+    font-size: 20px;
+    color: #f8f9fa;
+    margin-left: 50px;
+    background-color: rgb(75, 128, 226);
+
+}
+.ba{
+    margin-left: -90px;
+    margin-left: 50px;
+    padding: 10px;
+    width: 140px;
+    font-size: 20px;
+    color: #f8f9fa;
+    background-color: rgb(75, 128, 226);
+}
+.lux{
+    font-size: 30px;
+}
+.lex{
+    font-size: 30px;
+
+}
+.lox{
+    font-size: 30px;
+
+}
+.flooter{
+    display: flex;
+    gap: 320px;
+    background-color: #f8f9fa;
+    margin-bottom: -600px;
+}
+.endd{
+    background-color: blue;
+   text-align: center;
+   border-radius: 80% 80% 0% 0%;
+   padding: 70px;
+   color: white;
+}
+.paraclients{
+    text-align: center;
+    font-size: 50px;
+}
+#chi{
+    width: 100px;
+    height: 100px;
+    border: solid transparent;  
+    border-radius: 100%;
+    margin-bottom: 20px;
+}
+.clientsay{
+    display: flex;
+    gap: 60px;
+}
+.black{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    border: solid transparent;
+}
+.riri{
+    width: 100px;
+    height: 100px;
+    border-radius: 200px;
+    border: solid transparent;
+}
+.lastpage{
+    display: flex;
+}
+.subscribe{
+    color: lightblue;
+    border-radius: 0px 30px 30px 0px;
+    padding: 20px;
+    color: grey;
+    border: none;
+}
+.email{
+    padding:20px;
+    border-radius: 30px 0px 0px 30px;
+    color:grey;
+    border: none;
+}
