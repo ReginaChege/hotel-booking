@@ -13,19 +13,32 @@ body{
 }
 .a{
    color: white;
-   padding: 50px;
-   gap: 30px;
+   
+  
+}
+#p{
+    /* display: inline-block; */
+    margin: 0% 8% 0% 0%;  
 }
 .heading1{
     text-align: center;
     font-size: 40px;
     color: white;
-    margin-top: 190px;
+    margin-top: 10px;
     font-size: 70px;
+}
+.simple{
+ text-align: center;
+ color: white;
+ padding-top: 90px;
 }
 .info{
     display: flex;
     border-radius: 20px;
+    text-align: center;
+    margin-left: 20%;
+    color: white;
+    padding: 0%;
 }
 .para1{
     font-size: 40px;
@@ -64,12 +77,13 @@ ion-icon{
     margin-left: 70px;
 }
 .heading3{
-    margin-top: -90px;
+    margin-top: 90px;
     display: flex;
     font-size: 40px;
     font-weight: 700;
     margin-left: 90px;
     margin-bottom: 80px;
+    text-align: center;
     
 }
 .but{
@@ -99,6 +113,7 @@ ion-icon{
 .popular{
     display: grid;
     grid-template-columns: repeat(3,1fr);
+    gap: 30px;
 }
 .luxury1{
     width: 350px;
