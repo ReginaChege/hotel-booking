@@ -12,13 +12,17 @@ body{
    background-color: rgba(0,0,0,0.7);
 }
 .a{
-   color: white;
+   color: blue;
    
   
 }
 #p{
     /* display: inline-block; */
     margin: 0% 8% 0% 0%;  
+    color: white;
+}
+.pp{
+
 }
 .heading1{
     text-align: center;
@@ -33,12 +37,15 @@ body{
  padding-top: 90px;
 }
 .info{
-    display: flex;
-    border-radius: 20px;
-    text-align: center;
+   display: grid;
+   grid-template-columns: repeat(6,1fr);
+    border-radius: 5px;
     margin-left: 20%;
     color: white;
     padding: 0%;
+}
+.search{
+    border-radius: 5px;
 }
 .para1{
     font-size: 40px;
@@ -81,9 +88,9 @@ ion-icon{
     display: flex;
     font-size: 40px;
     font-weight: 700;
-    margin-left: 90px;
+    margin-left: 150px;
     margin-bottom: 80px;
-    text-align: center;
+text-align: center;
     
 }
 .but{
@@ -115,9 +122,14 @@ ion-icon{
     grid-template-columns: repeat(3,1fr);
     gap: 30px;
 }
+.luxu{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
 .luxury1{
     width: 350px;
     height: 350px;
+    display: flex;
 }
 luxury2{
     width: 400px;
@@ -205,6 +217,7 @@ display: flex;
 .end{
     margin-top: -570px;
     margin-left: 800px;
+    
 }
 .be{
     margin-left: -90px;
@@ -260,6 +273,7 @@ display: flex;
 .paraclients{
     text-align: center;
     font-size: 50px;
+   gap: 20px;
 }
 #chi{
     width: 100px;
@@ -270,7 +284,7 @@ display: flex;
 }
 .clientsay{
     display: flex;
-    gap: 60px;
+    gap: 40px;
 }
 .black{
     width: 100px;
