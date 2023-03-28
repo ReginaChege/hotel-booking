@@ -368,3 +368,74 @@ r{
     height: 400px;
   border-radius: 30px,0px,30px,0px;
 }
+/* .nurosheii{
+    /* background-image:url("alexander-naglestad-Fy8o0YA-e2Q-unsplash.jpg");
+    background-repeat: repeat;
+    background-size: cover; */
+   /* width: 100%;
+   height: 600px;
+   background-blend-mode: darken;
+   background-color: rgba(0,0,0,0.7);
+} */ */
+.Outt img{
+    width: 600px;
+    border-radius: 150px 10px 150px 10px; 
+}
+.out2{
+width: 600px;
+border-radius: 150px 10px 150px 10px;
+}
+.out3{
+    width: 600px;
+    border-radius: 150px 10px 150px 10px;
+}
+.Short{
+    display: flex;
+    gap: 30px;
+}
+/* .short div img{
+    border-top-right-radius: 10%;
+} */
+.short1{
+    display: flex;
+    gap: 30px;
+}
+.short2{
+    display: flex;
+    gap: 30px;
+}
+a{
+    margin: 50px;
+    text-decoration: none;
+}
+.heading{
+  font-size:30px;
+  text-align: center;
+}
+.p3{
+    font-size: 40px;
+    font-weight: 20px;
+}
+.p1{
+    font-size: 40px;
+    font-weight: 20px;
+}
+.p2{
+    font-size: 40px;
+    font-weight: 20px;
+}
+.buttt{
+    border-color: blue;
+    padding: 10px;
+}
+.short1 img{
+    width: 600px;
+    border-radius: 150px 10px 150px 10px;
+    gap: 30px;
+}
+.about{
+    background-color: gray;
+}
+
+
+
