@@ -19,11 +19,9 @@ body{
 #p{
     /* display: inline-block; */
     margin: 0% 8% 0% 0%;  
-    color: white;
+    /* color: white; */
 }
-.pp{
 
-}
 .heading1{
     text-align: center;
     font-size: 40px;
@@ -436,6 +434,33 @@ a{
 .about{
     background-color: gray;
 }
+.row{
+display: flex;
+flex-direction: row;
+gap: 60px;
+}
 
+.message{
+    width: 425px;
+    height: 150px;
+    border-radius: 0px 0px 60px 0px;
+    border: none;
+}
+.submit{
+    background-color: blue;
+    color: white;
+    height: 40px;
+    width: 90px;
+}
+.a{
+    text-decoration: none;
+}
+.h{
+    text-align: center;
+}
+.b{
+    background-color: gray;
+    overflow-x: hidden;
+}
 
 
